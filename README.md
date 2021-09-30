@@ -15,6 +15,7 @@
 
 https://user-images.githubusercontent.com/46098949/135448893-c305c17b-dd91-46d8-b0b6-c4970655edd4.mp4
 
+![시스템로딩](https://user-images.githubusercontent.com/46098949/135449149-82272ec2-fddd-4034-a56f-e9cd07bdf40b.gif)
 
 
 
